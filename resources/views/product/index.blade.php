@@ -187,7 +187,7 @@
     </div>
     <div class="modal fade" id="importProduct" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog">
-            <form action="{{ route('import.products') }}" method="POST">
+            <form action="{{ route('import.products') }}" method="POST" enctype="multipart/form-data">
                 @csrf
                 <div class="modal-content">
                     <div class="modal-header">
@@ -203,10 +203,11 @@
                         </div>
                     </div>
                     <div class="modal-body">
-                        <span>key name is :</span>
-                        <span>category_id</span>
-                        <span>name</span>
-                        <span>price</span>
+                        <h5>Product Excel File Key name</h5>
+                        <p class="text-danger">Key name is:</p>
+                        <p class="text-danger">category</p>
+                        <p class="text-danger">name</p>
+                        <p class="text-danger">price</p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>

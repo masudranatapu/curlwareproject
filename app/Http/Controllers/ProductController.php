@@ -107,6 +107,7 @@ class ProductController extends Controller
             DB::commit();
             return redirect()->back()->with('success', 'Products successfully imported');
         } catch (\Throwable $e) {
+            dd($e);
             DB::rollBack();
             return redirect()->back()->with('error', $e->getMessage());
         }
