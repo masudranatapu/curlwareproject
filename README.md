@@ -1,20 +1,10 @@
 ## Laravel Vue.js 3.4 PHPRMACY-POS
 
-A simple and clean boilerplate to start a new PHARMACY POS with authentication, user, pos and more features. This boilerplate uses the following tools:
+A simple and clean Complete a simple SAAS (single vendor) ecommerce api where:
 
-[![](https://img.shields.io/badge/vue.js-v3.4-04C690.svg)](https://vuejs.org)
 [![](https://img.shields.io/badge/Laravel-v11.0.4-ff2e21.svg)](https://laravel.com)
 
 [![](https://img.shields.io/badge/axios-v1.6.4-5A29E4.svg)](https://axios-http.com)
-[![](https://img.shields.io/badge/vite-v5-646cff.svg)](https://vitejs.dev)
-
--   [Laravel 11.x](https://github.com/laravel/laravel)
--   [Laravel Sanctum](https://laravel.com/docs/10.x/sanctum)
--   [Vue 3.4](https://github.com/vuejs/vue)
--   [Vue I18n](https://vue-i18n.intlify.dev)
--   [Laravel Request Docs](https://github.com/rakutentech/laravel-request-docs)
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Features
 
