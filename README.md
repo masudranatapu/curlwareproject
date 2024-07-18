@@ -1,14 +1,12 @@
-## Laravel Vue.js 3.4 PHPRMACY-POS
+## Laravel Complete a simple SAAS (single vendor)
 
 A simple and clean Complete a simple SAAS (single vendor) ecommerce api where:
 
 [![](https://img.shields.io/badge/Laravel-v11.0.4-ff2e21.svg)](https://laravel.com)
 
-[![](https://img.shields.io/badge/axios-v1.6.4-5A29E4.svg)](https://axios-http.com)
-
 ## Features
 
-The following Sanctum features are implemented in this Vue PHARMACY POS:
+The following Sanctum features are implemented in this Complete a simple SAAS (single vendor):
 
 -   ✅ Laravel 11
 -   ✅ Login
@@ -70,7 +68,6 @@ Password : password
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-The Vue framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 This repository is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Contributors
